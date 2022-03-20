@@ -134,25 +134,21 @@ class _AddProductScreenState extends State<AddProductScreen> {
                                                       horizontal: 20.0),
                                               child: Center(
                                                 child: Row(
-                                                  children: [
+                                                  children: const [
                                                     Icon(
                                                       Icons.image_outlined,
-                                                      color: Theme.of(context)
-                                                          .hoverColor,
+                                                      color: Colors.black38,
                                                     ),
-                                                    const SizedBox(
+                                                    SizedBox(
                                                       width: 20.0,
                                                     ),
                                                     Text(
                                                       "Image from Gallery",
-                                                      style: Theme.of(context)
-                                                          .textTheme
-                                                          .bodyText1!
-                                                          .copyWith(
-                                                            color: Theme.of(
-                                                                    context)
-                                                                .hoverColor,
-                                                          ),
+                                                      style: TextStyle(
+                                                        color: Colors.black38,
+                                                        fontWeight:
+                                                            FontWeight.bold,
+                                                      ),
                                                     ),
                                                   ],
                                                 ),
@@ -178,25 +174,21 @@ class _AddProductScreenState extends State<AddProductScreen> {
                                                       horizontal: 20.0),
                                               child: Center(
                                                 child: Row(
-                                                  children: [
+                                                  children: const [
                                                     Icon(
                                                       Icons.camera_alt_outlined,
-                                                      color: Theme.of(context)
-                                                          .hoverColor,
+                                                      color: Colors.black38,
                                                     ),
-                                                    const SizedBox(
+                                                    SizedBox(
                                                       width: 20.0,
                                                     ),
                                                     Text(
                                                       "Image from Camera",
-                                                      style: Theme.of(context)
-                                                          .textTheme
-                                                          .bodyText1!
-                                                          .copyWith(
-                                                            color: Theme.of(
-                                                                    context)
-                                                                .hoverColor,
-                                                          ),
+                                                      style: TextStyle(
+                                                        color: Colors.black38,
+                                                        fontWeight:
+                                                            FontWeight.bold,
+                                                      ),
                                                     ),
                                                   ],
                                                 ),
