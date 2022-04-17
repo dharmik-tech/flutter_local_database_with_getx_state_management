@@ -11,6 +11,7 @@ Currently the project has two screens:
 The getx state management listens to data changes and updates UI without reloading whole screen.
 
 **App Result:**
-![alt text](https://github.com/Dharmik14/flutter_local_database_with_getx_state_management/blob/main/assets/screen_records/screen_record_Add_product.gif "Logo Title Text 1")
+
+![alt text](https://github.com/Dharmik14/flutter_local_database_with_getx_state_management/blob/main/assets/screen_records/screen_record.gif "Screen Record")
 
 <!-- https://github.com/Dharmik14/flutter_local_database_with_getx_state_management/blob/main/assets/screen_records/screen_record_Add_product.gif -->
