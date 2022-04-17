@@ -12,7 +12,7 @@ The getx state management listens to data changes and updates UI without reloadi
 
 **App Result:**
 
-<img src="/assets/screen_records/screen_record_Add_product.gif" width="100%" height="100%"/>
+<img src="/assets/screen_records/screen_record_Add_product.gif" width="30%" height="50%"/>
 
 
 <!-- ![alt text](https://github.com/Dharmik14/flutter_local_database_with_getx_state_management/blob/main/assets/screen_records/screen_record_Add_product.gif "Logo Title Text 1") -->
